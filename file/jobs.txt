@@ -1,0 +1,20 @@
+programmer
+he is a software engineer that makes computers software.
+office clerk
+Workers spend their days filling a variety of roles in an office environment.
+nurse
+is the most common profession in the health care field and provide treatment to patients in hospitals.
+waiter
+take food orders, accept payment and provide menu information to restaurant customers.
+secretary
+provide administrative assistance to an office in the form of answering phones, greeting visitors.
+manager
+are the top executives of establishments and organizations like restaurants, hotels.
+teacher
+are responsible for instructing students in kindergarten through fifth grade on a variety of subjects.
+doctor
+examine ill people ,and descripe the desease to the patiant.
+carpenter
+is a skilled trade and a craft in which the primary work performed is the cutting, shaping and installation of building materials.
+plumber
+who specializes in installing and maintaining systems used for potable (drinking) water, sewage and drainage in plumbing.

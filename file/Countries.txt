@@ -1,0 +1,20 @@
+egypt
+has(pyramids,sphinx), it's currency : egy pound.
+france
+has(Eiffel tower), it's currency : Euro.
+italy
+has(tower of pisa), it's currency : Euro.
+germany
+has(Brandenburg gate), it's currency : Euro.
+china
+has(great wall), it's currency : Yuan.
+australia
+has(sydney opera house), it's currency : australian dollar.
+united kingdom
+has(tower bridge), it's currency : pound streling.
+denmark
+has(little mermaid), it's currency : danish krone.
+united states
+has(statue of liberty), it's currency : US dollar.
+chile
+has(statues of Easterland), it's currency : chilean peso.

@@ -1,0 +1,89 @@
+﻿  Main.cpp
+F:\Dictionary game\Main.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Dictionary game\Main.cpp(957,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Dictionary game\Main.cpp(1044,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1289,22): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1488,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1504,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1577,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1592,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1665,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1680,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1755,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1770,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1843,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1858,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(1932,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(1947,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2021,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2036,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2110,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2125,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2199,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2214,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2288,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2303,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2377,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2392,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2466,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2481,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2555,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2570,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2644,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2659,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2733,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2748,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2822,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2837,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(2911,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(2926,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3000,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3015,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3089,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3104,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3178,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3193,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3267,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3282,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3356,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3371,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3445,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3460,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3534,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3549,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3623,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3638,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3712,27): warning C4305: '=': truncation from 'int' to 'bool'
+F:\Dictionary game\Main.cpp(3727,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(3769,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4017,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4261,26): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4511,35): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4544,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4556,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4568,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4580,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4592,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4604,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4616,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4628,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4640,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4652,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4664,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4676,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4688,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4700,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4712,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4724,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4736,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4748,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4760,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4772,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4784,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4796,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4808,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4820,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4832,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4844,23): warning C4018: '<': signed/unsigned mismatch
+F:\Dictionary game\Main.cpp(4857,23): warning C4018: '<': signed/unsigned mismatch
+  Dictionary game.vcxproj -> F:\Dictionary game\Debug\Dictionary game.exe
